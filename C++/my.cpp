@@ -1,0 +1,1 @@
+term_t get_term_hash()
